@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-express-tutorial",
+  "version": "1.0.0",
+  "description": "Node.js server tutorial with Express framework and multiple endpoints",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest --coverage --watchAll=false"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "tutorial",
+    "routing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
