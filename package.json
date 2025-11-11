@@ -7,7 +7,12 @@
     "start": "node app.js",
     "test": "jest --coverage --watchAll=false"
   },
-  "keywords": ["nodejs", "express", "tutorial", "routing"],
+  "keywords": [
+    "nodejs",
+    "express",
+    "tutorial",
+    "routing"
+  ],
   "author": "",
   "license": "ISC",
   "dependencies": {
